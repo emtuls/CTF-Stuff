@@ -1,0 +1,5 @@
+The below link will take you to the writeup that is hosted online, which may be more up to date than the version that is
+provided alongside this challenge. It will also allow you to access the hyperlinks I put into the write up for more
+background information.
+
+https://veteransec.com/2018/10/19/hacktober-ctf-2018-binary-analysis-larry/
